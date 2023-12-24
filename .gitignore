@@ -1,0 +1,22 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build output
+dist/
+build/
+
+# Ignore TypeScript cache and declaration files
+*.tsbuildinfo
+*.d.ts
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore JetBrains IDE settings
+.idea/
+
+# Ignore npm package-lock file
+package-lock.json
+
+# Ignore Yarn lock file
+yarn.lock
