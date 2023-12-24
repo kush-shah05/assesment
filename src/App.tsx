@@ -6,7 +6,6 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import About from './Components/About';
 import Houses from './Components/Houses';
 
-
 const App: React.FC = () => {
   return (
     <Router>
